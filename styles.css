@@ -8,8 +8,12 @@ body {
 }
 
 .container {
+
     text-align: center;
+
 }
+
+
 
 #timer-display {
     margin: 20px 0;
